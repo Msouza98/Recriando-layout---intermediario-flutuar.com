@@ -1,0 +1,58 @@
+body{
+    
+font-family:"dosis medium, open sans";
+text-align: center;
+
+
+}
+
+.page {
+    padding-top: 0;
+    margin: 0px 0px;
+}
+
+#img1 {
+  
+  margin-right: auto;
+  margin-top: 64px;
+}
+
+h1{
+    font-family:"dosis medium";
+    font-size: 32px;
+    font-weight: 494;
+  
+    
+}
+
+h1 strong {
+   color: #EE24FF;
+}
+
+p{
+    font-family:"open sans";
+    color: #828282;
+    font-size: 15px;
+    font-weight:normal;
+    
+}
+
+p span{
+    font-weight: bold;
+}
+
+p strong{
+    color: #3F3D56;
+    font-weight: bold;
+}
+
+
+#img2 {
+    height: auto;
+}
+
+footer a {
+    display: flex;
+    justify-content: center;
+    font-size: 15px;
+}
